@@ -9,7 +9,6 @@
 </head>
 <body>
 <h1>Hello World</h1>
-nd drnhe shj brujwb 
 
 
 <script src="script.js"></script>
